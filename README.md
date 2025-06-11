@@ -4,7 +4,7 @@
 
 Submitted by: **Isfahan Juboraj**
 
-Time spent: **4** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Summary
 
@@ -24,7 +24,7 @@ The following REQUIRED features are completed:
 
 The following STRETCH features are implemented:
 
-- [X] Re-brand the app by modifying the UI
+- [ ] Re-brand the app by modifying the UI
 - [X] Modify the profile image by uploading a new image drawable
 
 The following EXTRA features are implemented:
